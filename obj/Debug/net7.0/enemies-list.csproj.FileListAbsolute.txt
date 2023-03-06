@@ -1,0 +1,15 @@
+/Users/brandonherbison/workspace/csharp/enemies-list/bin/Debug/net7.0/enemies-list
+/Users/brandonherbison/workspace/csharp/enemies-list/bin/Debug/net7.0/enemies-list.deps.json
+/Users/brandonherbison/workspace/csharp/enemies-list/bin/Debug/net7.0/enemies-list.runtimeconfig.json
+/Users/brandonherbison/workspace/csharp/enemies-list/bin/Debug/net7.0/enemies-list.dll
+/Users/brandonherbison/workspace/csharp/enemies-list/bin/Debug/net7.0/enemies-list.pdb
+/Users/brandonherbison/workspace/csharp/enemies-list/obj/Debug/net7.0/enemies-list.csproj.AssemblyReference.cache
+/Users/brandonherbison/workspace/csharp/enemies-list/obj/Debug/net7.0/enemies-list.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonherbison/workspace/csharp/enemies-list/obj/Debug/net7.0/enemies-list.AssemblyInfoInputs.cache
+/Users/brandonherbison/workspace/csharp/enemies-list/obj/Debug/net7.0/enemies-list.AssemblyInfo.cs
+/Users/brandonherbison/workspace/csharp/enemies-list/obj/Debug/net7.0/enemies-list.csproj.CoreCompileInputs.cache
+/Users/brandonherbison/workspace/csharp/enemies-list/obj/Debug/net7.0/enemies-list.dll
+/Users/brandonherbison/workspace/csharp/enemies-list/obj/Debug/net7.0/refint/enemies-list.dll
+/Users/brandonherbison/workspace/csharp/enemies-list/obj/Debug/net7.0/enemies-list.pdb
+/Users/brandonherbison/workspace/csharp/enemies-list/obj/Debug/net7.0/enemies-list.genruntimeconfig.cache
+/Users/brandonherbison/workspace/csharp/enemies-list/obj/Debug/net7.0/ref/enemies-list.dll
